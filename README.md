@@ -14,4 +14,4 @@ I'm Dmitry Volkov, a former Project/Product manager switched to BackEnd Developm
 - Other: PyTest, GitHub Actions, CI/CD
 
 
-Feel free to reach out to me on Telegram [@da_volkov](https://t.me/n8creator)
+Feel free to reach out to me on Telegram [@n8creator](https://t.me/n8creator)
