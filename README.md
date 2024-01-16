@@ -1,6 +1,6 @@
 # Welcome here! 👋
 
-I'm Dmitry Volkov, a former Project/Product manager switched to BackEnd Development. I specialize in creating web applications, emphasizing an approach that avoids the use of JavaScript by employing the ***HTML over the wire*** approach (via HTML Library) for better clarity and simplicity.
+I'm Dmitry Volkov, a former Project/Product manager switched to BackEnd Development. I specialize in creating web applications, emphasizing an approach that avoids the use of JavaScript by employing the ***HTML over the wire*** approach (via *HTMX* Library) for better clarity and simplicity.
 
 #### Technologies I Work With:
 
