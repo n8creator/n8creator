@@ -5,11 +5,12 @@ I'm Dmitry Volkov, a former Project/Product manager switched to BackEnd Developm
 #### Technologies I Work With:
 
 - BackEnd Languages: Python 3.8+, Go Lang
-- Web Frameworks: Django, DRF, FastAPI, Fiber
-- API Design: REST, HTML over the wire, DTL (Django Templates)
-- Databases: PostgreSQL, TimeScaleDB, Redis, MongoDB, SQLite
+- Web Frameworks: Django, Django Rest (DRF), FastAPI, Flask
+- API Design: REST, DTL (Django Templates), HTML over the wire
+- Databases: PostgreSQL, SQLite, Redis, ClickHouse, TimeScaleDB
 - FrontEnd: Bootstrap 5, HTMX, HTML, CSS
-- Deployment: Docker & Docker Compose, Ansible, Dokku, Nginx
+- Tools: ELK, ElasticSearch, Grafana, Prometheus
+- Deployment: Docker & Docker Compose, K8S, Dokku, Ansible, Nginx
 - Other: PyTest, GitHub Actions, CI/CD
 
 
